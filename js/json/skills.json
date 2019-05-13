@@ -1,0 +1,232 @@
+{
+    "html": {
+        "title":"HTML",
+        "skill_amount":"5",
+        "description": "I use HTML mostly for web development. I used it for my Electron interface as well."
+    },
+    "css": {
+        "title":"CSS",
+        "skill_amount":"5",
+        "description": "HTML and CSS go hand in hand like bread and butter. I use CSS for websites and Electron applications."
+    },
+    "scss": {
+        "title":"SCSS",
+        "skill_amount":"5",
+        "description": "Once I started understanding SCSS I was baffled how much time I could save with it. Since I started using it I never went back to the good old CSS.\n\nI use Koala to compile my SCSS."
+    },
+    "javascript": {
+        "title":"JavaScript",
+        "skill_amount":"4",
+        "description": "I used JavaScript for Electron apps or for games I make with Phaser or Pixi.js. I don't really use it for HTML DOM related stuff because I prefer using jQuery for that."
+    },
+    "jquery": {
+        "title":"jQuery",
+        "skill_amount":"5",
+        "description": "jQuery is my go to JavaScript libary when it comes to HTML DOM manipulation."
+    },
+    "php": {
+        "title":"PHP",
+        "skill_amount":"4",
+        "description": "I often use PHP for my website backends and I use prepared statements with PHP when I do database stuff."
+    },
+    "sql": {
+        "title":"SQL",
+        "skill_amount":"3",
+        "description": "Whenever I make my own little CMS for websites I need to use SQL to query through all the entries in the database."
+    },
+    "phpmyadmin": {
+        "title":"PhpMyAdmin",
+        "skill_amount":"3",
+        "description": "This is my go to MySQL database management tool. I like it for its simplicity."
+    },
+    "nodejs": {
+        "title":"Node.js",
+        "skill_amount":"2",
+        "description": "I used Node.js for Electron and some simple database stuff."
+    },
+    "typescript": {
+        "title":"TypeScript",
+        "skill_amount":"3",
+        "description": "TypeScript comes in handy whenever I make some games with Phaser or Pixi.js. It makes everything much cleaner and well structured."
+    },
+    "git": {
+        "title":"Git",
+        "skill_amount":"3",
+        "description": "I like Git for its simplicity and it's still a very advanced version control tool. I use Git on a lot of projects."
+    },
+    "twig": {
+        "title":"Twig",
+        "skill_amount":"4",
+        "description": "Twig is a templating language for PHP I used for a team management application that me and my colleagues created at my current work."
+    },
+    "shellscripting": {
+        "title":"Shellscripting",
+        "skill_amount":"3",
+        "description": "I like to write little shellscripts for simplifying a repetitive task. I wrote a few simple Backupscripts and a script that got passed a time in seconds and it converted it into hours, minutes and seconds."
+    },
+    "python": {
+        "title":"Python",
+        "skill_amount":"2",
+        "description": "Python also takes care for a lot of repetitive tasks for me like renaming files, batch deleting a lot of files and changing file dates."
+    },
+    "csharp": {
+        "title":"C#",
+        "skill_amount":"1",
+        "description": "I used C# for a Unity game I tried to code."
+    },
+    "cplusplus": {
+        "title":"C++",
+        "skill_amount":"1",
+        "description": "A friend of mine needed some code for a Arduino so I coded it for him in C++."
+    },
+    "terminal": {
+        "title":"Terminal",
+        "skill_amount":"4",
+        "description": "I use the Terminal all the time for traversing through folder structures, checking/editing file permissions, Git, setting up NGINX/Apache, installing programs and updates and much more."
+    },
+    "windows": {
+        "title":"Windows",
+        "skill_amount":"5",
+        "description": "I like Windows for gaming and browsing. I know how to solve a few Windows problems since I used almost every Windows from Windows 98 to Windows 10. I used to code on Windows when I just started to learn coding. At the moment I have Windows 10 installed on my M2 SSD."
+    },
+    "linux": {
+        "title":"Linux",
+        "skill_amount":"4",
+        "description": "I love Linux for coding and working. It's a OS where I have full control over my system. No other OS gives me that feeling.\n\nI tried a lot of Linux flavours like Pop!_OS, Kubuntu, Linux Mint, openSUSE and Ubuntu. Currently I am using Ubuntu 18.04 LTS on one of my HDDs."
+    },
+    "macos": {
+        "title":"Mac OS",
+        "skill_amount":"4",
+        "description": "I like Mac OS for coding and working. Also there are many popular programs available on Mac like the Adobe suite and it is a UNIX system. I am using the Mac OS at my current workplace and at home on my Mac Mini 2018."
+    },
+    "visualstudiocode": {
+        "title":"Visual Studio Code",
+        "skill_amount":"4",
+        "description": "Visual Studio Code is quite a popular text editor at the moment. I like it for it's awesome Git support, the Terminal and the many extensions."
+    },
+    "coda2": {
+        "title":"Coda 2",
+        "skill_amount":"4",
+        "description": "Coda 2 is another text editor I really like on the Mac OS. But it has an awesome Interface for the local files and the files on the server. It also has a really nice looking site manager."
+    },
+    "atom": {
+        "title":"Atom",
+        "skill_amount":"3",
+        "description": "Atom was one of the first text editors I used. I wrote a lot of HTML, CSS and Python code in Atom. I like it for its modularity."
+    },
+    "sublime": {
+        "title":"Sublime",
+        "skill_amount":"2",
+        "description": "Sublime was one of the first text editors I used. I wrote a lot of HTML and CSS in Sublime 3."
+    },
+    "unity": {
+        "title":"Unity",
+        "skill_amount":"2",
+        "description": "I started coding a little game in Unity with C# but I never actually finished it since my game idea was too big."
+    },
+    "arduino": {
+        "title":"Arduino",
+        "skill_amount":"1",
+        "description": "I coded a sender and receiver for a friend of mine for his Arduino."
+    },
+    "responsivedesign": {
+        "title":"Responsive Design",
+        "skill_amount":"5",
+        "description": "Whenever I code a website it's responsive. In todays age a non-repsonsive website is a NO GO."
+    },
+    "xcode": {
+        "title":"Xcode",
+        "skill_amount":"3",
+        "description": "Xcode is a IDE for Apple software mostly and I used the editor to start coding a fitness app for the iPhone. The app is a WIP."
+    },
+    "swift": {
+        "title":"Swift",
+        "skill_amount":"3",
+        "description": "I'm using Swift to code a fitness app for the iphone."
+    },
+    "java": {
+        "title":"Java",
+        "skill_amount":"2",
+        "description": "I used Java when I started coding Android apps and I also coded a Hangman game in Java once."
+    },
+    "kotlin": {
+        "title":"Kotlin",
+        "skill_amount":"2",
+        "description": "Kotlin is Androids new official coding language and I have been using it for a while now."
+    },
+    "bootstrap": {
+        "title":"Bootstrap",
+        "skill_amount":"4",
+        "description": "Bootstrap is a CSS framework I used on quite a few personal projects and projects at my current work."
+    },
+    "apache": {
+        "title":"Apache",
+        "skill_amount":"3",
+        "description": "I use Apache for my virtual server blocks on my Linux system."
+    },
+    "nginx": {
+        "title":"NGINX",
+        "skill_amount":"3",
+        "description": "We use NGINX at my current work and I have also experimented with setting up my own virtual server blocks with NGINX on Linux."
+    },
+    "adobephotoshop": {
+        "title":"Adobe Photoshop",
+        "skill_amount":"4",
+        "description": "Whenever I need to edit a picture for websites or make my pictures smaller in storage size I use Adobe Photoshop. I have also created droplets for Adobe Photoshop so I can shrink images easily in storage size."
+    },
+    "gimp": {
+        "title":"GIMP",
+        "skill_amount":"4",
+        "description": "I use this free Adobe Photoshop Alternative a lot at home since it has all the functions I need for free and it is open source."
+    },
+    "phaser": {
+        "title":"Phaser",
+        "skill_amount":"3",
+        "description": "I am creating a little game at the moment using Phaser and TypeScript."
+    },
+    "pixijs": {
+        "title":"Pixi.js",
+        "skill_amount":"4",
+        "description": "I made around three games in the past using Pixi.js."
+    },
+    "electron": {
+        "title":"Electron",
+        "skill_amount":"3",
+        "description": "I made a file renamer using Electron. It's available on my GitHub."
+    },
+    "pchardware": {
+        "title":"PC Hardware",
+        "skill_amount":"4",
+        "description": "I have built around three PCs for myself, two PCs for the workplace I currently work at, one of them was a Threadripper PC and one server for my current workplace. I have also diagnosed and repaired a few PCs of friends and family successfully. PC Hardware was one of the first tech things I got into and it led to me liking programming."
+    },
+    "flexbox": {
+        "title":"Flexbox",
+        "skill_amount":"4",
+        "description": "I love Flexbox. It makes my life much easier and I don't need to use floats anymore. This skills section is also made with flexbox."
+    },
+    "typo3": {
+        "title":"Typo3",
+        "skill_amount":"1",
+        "description": "I once needed to learn Typo 3 for my current work. I have a basic understanding of Typo 3."
+    },
+    "googlemapsapi": {
+        "title":"Google Maps API",
+        "skill_amount":"4",
+        "description": "The Google Maps API is used on a lot of websites I make."
+    },
+    "json": {
+        "title":"JSON",
+        "skill_amount":"5",
+        "description": "Whenever I need to send data back and forth from PHP to JavaScript I use the JSON format or when I am limited to HTML like right now I place all the data I need in a JSON file so it's easier to maintain."
+    },
+    "objectorientedprogramming": {
+        "title":"Object Oriented Programming",
+        "skill_amount":"3",
+        "description": "When I use Java, Swift, TypeScript, PHP, C#, C++ and so on, I always have to use the object oriented programming approach to make my code work. With JavaScript or PHP also I can go the procedural way if I want to."
+    },
+    "slickslider": {
+        "title":"Slick Slider",
+        "skill_amount":"5",
+        "description": "Whenever I need a slider on a website I use the Slick slider. It's easy to implement and it's lightweight."
+    }
+} 

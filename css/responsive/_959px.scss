@@ -1,0 +1,58 @@
+@media only screen and (max-width: 959px) {
+    .wrapper{
+        max-width: 720px;
+    }
+
+    section#about .about_wrap{
+        flex-direction: column;
+        align-items: center;
+
+        img{
+            margin-bottom: 40px;
+        }
+
+        p{
+            padding-right: 40px;
+        }
+    }
+
+    .resume .wrapper{
+        flex-direction: column;
+    }
+
+    .resume .wrapper > div:nth-child(2n+1),
+    .resume .wrapper > div:nth-child(2n){
+        flex-basis: unset;
+    }
+
+    .resume .image_wrap{
+        padding-top: 100px;
+
+        img{
+            margin: 0 auto;
+            display: block;
+        }
+    }
+
+    .resume .name_wrap{
+        text-align: center;
+
+        h1{
+            text-align: center;
+            margin-top: 20px;
+            display: block;
+        }
+
+        .job_title{
+            margin-top: 20px;
+        }
+    }
+
+    .general_info{
+        font-size: 0.8em;
+    }
+
+    .label{
+        padding-bottom: 40px;
+    }
+}

@@ -1,0 +1,89 @@
+@media only screen and (max-width: 719px) {
+    .wrapper{
+        max-width: 90%;
+    }
+
+    .project_wrap {
+        flex: 1 0 100%;
+        max-width: unset;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin: 0 auto;
+    }
+
+    section#skills{
+        padding-left: 0;
+        padding-right: 0;
+
+        .skill{
+            padding: 5px 10px 5px 10px;
+            margin: 5px;
+        }
+    }
+
+    section#about .about_wrap p{
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    nav .sidebar{
+        width: 100%;
+        padding: 10px;
+        right: -100%;
+    }
+
+    nav #nav_icon{
+        margin-right: 10px;
+    }
+
+    .general_info{
+        flex-direction: column;
+
+        .item{
+            padding-bottom: 20px;
+
+            .title{
+                padding-bottom: 10px;
+            }
+        }
+    }
+
+    .resume .wrapper{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .resume .main_skills{
+        flex-direction: column;
+
+        .item{
+            width: 100%;
+        }
+    }
+
+    .resume .experience .experience_wrap{
+        
+        .inner{
+            flex-direction: column;
+        }
+
+        .experience_info{
+            padding-bottom: 20px;
+        }
+    }
+
+    .resume .profiles{
+        flex-direction: column;
+
+        .item{
+            width: 100%;
+        }
+    }
+
+    .name_and_description{
+
+        span{
+            text-align: left;
+        }
+    }
+}
