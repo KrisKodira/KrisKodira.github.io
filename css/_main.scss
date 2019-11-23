@@ -543,6 +543,10 @@ body.dim_active{
     box-sizing: border-box;
     position: relative;
 
+    a{
+      text-decoration: underline;
+    }
+
     .close_skill_box{
         position: absolute;
         top: 20px;

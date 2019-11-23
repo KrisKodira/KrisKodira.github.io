@@ -680,6 +680,8 @@ body.dim_active {
   padding: 40px;
   box-sizing: border-box;
   position: relative; }
+  .skill_box a {
+    text-decoration: underline; }
   .skill_box .close_skill_box {
     position: absolute;
     top: 20px;
