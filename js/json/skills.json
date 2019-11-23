@@ -10,13 +10,13 @@
       "description": "HTML and CSS go hand in hand like bread and butter. I use CSS for websites and Electron applications."
   },
   "scss": {
-      "title":"SCSS",
+      "title":"SCSS/SASS",
       "skill_amount":"5",
-      "description": "Once I started understanding SCSS I was baffled how much time I could save with it. Since I started using it I never went back to the good old CSS.\n\nI use Koala to compile my SCSS."
+      "description": "Once I started understanding SCSS I was baffled how much time I could save with it. Since I started using it I never went back to the good old CSS.\n\nI use Koala to compile my SCSS or Webpack."
   },
   "javascript": {
       "title":"JavaScript",
-      "skill_amount":"4",
+      "skill_amount":"5",
       "description": "I used JavaScript for Electron apps or for games I make with Phaser or Pixi.js. I don't really use it for HTML DOM related stuff because I prefer using jQuery for that."
   },
   "jquery": {
@@ -51,13 +51,13 @@
   },
   "git": {
       "title":"Git",
-      "skill_amount":"3",
-      "description": "I like Git for its simplicity and it's still a very advanced version control tool. I use Git on a lot of projects."
+      "skill_amount":"5",
+      "description": "I like Git for its simplicity and it's still a very advanced version control tool. I use Git on all projects at work and personal."
   },
   "twig": {
       "title":"Twig",
-      "skill_amount":"4",
-      "description": "Twig is a templating language for PHP I used for a team management application that me and my colleagues created at my current work."
+      "skill_amount":"5",
+      "description": "Twig is a templating language for PHP I use it for a lot of websites at my current work we created with the GRAV framework."
   },
   "shellscripting": {
       "title":"Shellscripting",
@@ -81,7 +81,7 @@
   },
   "terminal": {
       "title":"Terminal",
-      "skill_amount":"4",
+      "skill_amount":"5",
       "description": "I use the Terminal all the time for traversing through folder structures, checking/editing file permissions, Git, setting up NGINX/Apache, installing programs and updates and much more."
   },
   "windows": {
@@ -101,7 +101,7 @@
   },
   "visualstudiocode": {
       "title":"Visual Studio Code",
-      "skill_amount":"4",
+      "skill_amount":"5",
       "description": "Visual Studio Code is quite a popular text editor at the moment. I like it for it's awesome Git support, the Terminal and the many extensions."
   },
   "coda2": {
@@ -161,7 +161,7 @@
   },
   "apache": {
       "title":"Apache",
-      "skill_amount":"3",
+      "skill_amount":"4",
       "description": "I use Apache for my virtual server blocks on my Linux system."
   },
   "nginx": {
@@ -233,5 +233,15 @@
     "title":"React/Gatsby",
     "skill_amount":"4",
     "description": "I started building super fast, easy to maintain and modular pages using Gatsby and React. You cam check out my blog built with gatsby <a href='https://kriskodira.github.io/kriskodirablog' target='_blank'>here</a>."
+  },
+  "gitlabcicd": {
+    "title":"GitLab CI/CD",
+    "skill_amount":"5",
+    "description": "Developers like to make their life easy so there is nothing better than CI/CD for developers. GitLab enables you to create commands to test, build and deploy your code after commiting to your repo. You can also be very specific in what you want to happen in case specific files get changed or in case commits are made to specific branches."
+  },
+  "webpack": {
+    "title":"Webpack",
+    "skill_amount":"3",
+    "description": "Webpack is used to test, build and watch your code locally. It makes your life as a developer so much easier."
   }
 } 
