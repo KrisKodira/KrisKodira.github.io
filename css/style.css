@@ -303,6 +303,14 @@ template {
 [hidden] {
   display: none; }
 
+@font-face {
+  font-family: "Roboto";
+  src: url("fonts/Roboto//css/fonts/Roboto.eot");
+  src: url("fonts/Roboto//css/fonts/Roboto.eot?#iefix") format("embedded-opentype"), url("fonts/Roboto//css/fonts/Roboto.woff") format("woff"), url("fonts/Roboto//css/fonts/Roboto.ttf") format("truetype"), url("fonts/Roboto//css/fonts/Roboto.svg#Roboto") format("svg"); }
+@font-face {
+  font-family: "Roboto Mono";
+  src: url("fonts/Roboto Mono//css/fonts/RobotoMono.eot");
+  src: url("fonts/Roboto Mono//css/fonts/RobotoMono.eot?#iefix") format("embedded-opentype"), url("fonts/Roboto Mono//css/fonts/RobotoMono.woff") format("woff"), url("fonts/Roboto Mono//css/fonts/RobotoMono.ttf") format("truetype"), url("fonts/Roboto Mono//css/fonts/RobotoMono.svg#Roboto Mono") format("svg"); }
 html, body {
   font-size: 18px;
   background-color: #262e44; }

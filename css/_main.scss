@@ -25,6 +25,24 @@ $font: #333333;
     transition: .25s ease-in-out;
 }
 
+@mixin font-face($style-name, $file, $family) {
+  $filepath: "fonts/" + $family + "/" + $file;
+  @font-face {
+      font-family: "#{$style-name}";
+      src: url($filepath + ".eot");
+      src: url($filepath + ".eot?#iefix") format('embedded-opentype'), url($filepath + ".woff") format('woff'), url($filepath + ".ttf")  format('truetype'), url($filepath + ".svg#" + $style-name + "") format('svg');
+  }
+  %#{$style-name} {
+      font: {
+        family: "#{$style-name}";
+        weight: normal;
+      }
+  }
+}
+
+@include font-face("Roboto", "/css/fonts/Roboto", "Roboto");
+@include font-face("Roboto Mono", "/css/fonts/RobotoMono", "Roboto Mono");
+
 html, body{
     font-size: 18px;
     background-color: $secondary;
