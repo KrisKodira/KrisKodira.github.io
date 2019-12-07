@@ -243,5 +243,20 @@
     "title":"Webpack",
     "skill_amount":"3",
     "description": "Webpack is used to test, build and watch your code locally. It makes your life as a developer so much easier."
+  },
+  "githubactions": {
+    "title":"GitHub Actions",
+    "skill_amount":"4",
+    "description": "This is a tool by GitHub for CI/CD which makes deploying static pages and testing your code really easy."
+  },
+  "npm": {
+    "title":"NPM",
+    "skill_amount":"5",
+    "description": "The Node Package Manager that enables managing all the frameworks and scripts you use. With NPM you can also write your test and build scripts here."
+  },
+  "craftcms": {
+    "title":"Craft CMS",
+    "skill_amount":"4",
+    "description": "In my opinion the best CMS for developers and users there is. It's very flexible and very customizeable. It supports multiple languages super easy."
   }
 } 
