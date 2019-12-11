@@ -40,7 +40,7 @@ $(document).ready(function(){
     $('#nav_icon').click(function(){
         $(this).toggleClass('open');
         $(".sidebar").toggleClass("open");
-	});
+	  });
     // Nav animation END
 
     //Nav color fadein START
