@@ -232,7 +232,7 @@
   "reactgatsby": {
     "title":"React/Gatsby",
     "skill_amount":"4",
-    "description": "I started building super fast, easy to maintain and modular pages using Gatsby and React. You cam check out my blog built with gatsby <a href='https://kriskodira.github.io/kriskodirablog' target='_blank'>here</a>."
+    "description": "I started building super fast, easy to maintain and modular pages using Gatsby and React. You can check out my blog built with gatsby <a href='https://kriskodira.github.io/kriskodirablog' target='_blank'>here</a>."
   },
   "gitlabcicd": {
     "title":"GitLab CI/CD",
@@ -258,5 +258,10 @@
     "title":"Craft CMS",
     "skill_amount":"4",
     "description": "In my opinion the best CMS for developers and users there is. It's very flexible and very customizeable. It supports multiple languages super easy."
+  },
+  "eslint": {
+    "title":"ESLint",
+    "skill_amount":"4",
+    "description": "In many CI/CD projects I create a Job for the pipeline where I check the JS code before building and deploying it. Mostly I use the Airbnb style."
   }
 } 
